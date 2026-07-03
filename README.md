@@ -24,6 +24,7 @@ I contributed to the quality assurance process by designing test cases, executin
 
 Contains manually designed test cases covering:
 
+- User Management
 - Leave Request
 - Leave Approval
 - Input Validation
